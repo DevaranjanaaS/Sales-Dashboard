@@ -1,0 +1,1 @@
+Developed an interactive Power BI Sales Dashboard using Excel data to visualize key sales metrics, including profit, quantity, and payment trends. Implemented dynamic charts and filters to analyze sales performance across cities, categories, and periods.
